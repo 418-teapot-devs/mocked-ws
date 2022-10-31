@@ -10,7 +10,7 @@ const matchState = [
     id: "1",
     host: {
       username: "profran",
-      avatar_url: "http://localhost:8000/assets/profran.png",
+      avatar_url: "https://media-exp1.licdn.com/dms/image/C4D03AQGghvJ_n6eUww/profile-displayphoto-shrink_200_200/0/1533861405382?e=2147483647&v=beta&t=oeeWbZ4SqbWN0Oacr4rRxlHFfIkGPPkCIvUd3iYtKTk",
     },
     status: "waiting",
     max_players: 4,
@@ -21,17 +21,18 @@ const matchState = [
     robots: [
       {
         name: "X-T1",
-        avatar_url: "http://localhost:8000/assets/profran.png",
+        avatar_url: "https://cdn.dribbble.com/users/1084988/screenshots/4005734/fembot.png",
         username: "profran",
       },
     ],
+    result: null,
   },
   {
     name: "Partida #1",
     id: "1",
     host: {
       username: "profran",
-      avatar_url: "http://localhost:8000/assets/profran.png",
+      avatar_url: "https://media-exp1.licdn.com/dms/image/C4D03AQGghvJ_n6eUww/profile-displayphoto-shrink_200_200/0/1533861405382?e=2147483647&v=beta&t=oeeWbZ4SqbWN0Oacr4rRxlHFfIkGPPkCIvUd3iYtKTk",
     },
     status: "waiting",
     max_players: 4,
@@ -42,22 +43,23 @@ const matchState = [
     robots: [
       {
         name: "X-T1",
-        avatar_url: "http://localhost:8000/assets/X-T1.png",
+        avatar_url: "https://cdn.dribbble.com/users/1084988/screenshots/4005734/fembot.png",
         username: "profran",
       },
       {
         name: "X-100",
-        avatar_url: "http://localhost:8000/assets/X-100.png",
-        username: "someoneelse",
+        avatar_url: "https://i.pinimg.com/originals/17/f6/8e/17f68e401b36b8b87346557940a40970.png",
+        username: "anna",
       },
     ],
+    result: null,
   },
   {
     name: "Partida #1",
     id: "1",
     host: {
       username: "profran",
-      avatar_url: "http://localhost:8000/assets/profran.png",
+      avatar_url: "https://media-exp1.licdn.com/dms/image/C4D03AQGghvJ_n6eUww/profile-displayphoto-shrink_200_200/0/1533861405382?e=2147483647&v=beta&t=oeeWbZ4SqbWN0Oacr4rRxlHFfIkGPPkCIvUd3iYtKTk",
     },
     status: "in_progress",
     max_players: 4,
@@ -68,22 +70,23 @@ const matchState = [
     robots: [
       {
         name: "X-T1",
-        avatar_url: "http://localhost:8000/assets/X-T1.png",
+        avatar_url: "https://cdn.dribbble.com/users/1084988/screenshots/4005734/fembot.png",
         username: "profran",
       },
       {
         name: "X-100",
-        avatar_url: "http://localhost:8000/assets/X-100.png",
-        username: "someoneelse",
+        avatar_url: "https://i.pinimg.com/originals/17/f6/8e/17f68e401b36b8b87346557940a40970.png",
+        username: "anna",
       },
     ],
+    result: null,
   },
   {
     name: "Partida #1",
     id: "1",
     host: {
       username: "profran",
-      avatar_url: "http://localhost:8000/assets/profran.png",
+      avatar_url: "https://media-exp1.licdn.com/dms/image/C4D03AQGghvJ_n6eUww/profile-displayphoto-shrink_200_200/0/1533861405382?e=2147483647&v=beta&t=oeeWbZ4SqbWN0Oacr4rRxlHFfIkGPPkCIvUd3iYtKTk",
     },
     status: "in_progress",
     max_players: 4,
@@ -94,27 +97,28 @@ const matchState = [
     robots: [
       {
         name: "X-T1",
-        avatar_url: "http://localhost:8000/assets/X-T1.png",
+        avatar_url: "https://cdn.dribbble.com/users/1084988/screenshots/4005734/fembot.png",
         username: "profran",
       },
       {
         name: "X-100",
-        avatar_url: "http://localhost:8000/assets/X-100.png",
-        username: "someoneelse",
+        avatar_url: "https://i.pinimg.com/originals/17/f6/8e/17f68e401b36b8b87346557940a40970.png",
+        username: "anna",
       },
       {
         name: "X-H2S",
-        avatar_url: "http://localhost:8000/assets/X-100.png",
-        username: "someoneelses",
+        avatar_url: "https://i.pinimg.com/originals/17/f6/8e/17f68e401b36b8b87346557940a40970.png",
+        username: "lueme",
       },
     ],
+    result: null,
   },
   {
     name: "Partida #1",
     id: "1",
     host: {
       username: "profran",
-      avatar_url: "http://localhost:8000/assets/profran.png",
+      avatar_url: "https://media-exp1.licdn.com/dms/image/C4D03AQGghvJ_n6eUww/profile-displayphoto-shrink_200_200/0/1533861405382?e=2147483647&v=beta&t=oeeWbZ4SqbWN0Oacr4rRxlHFfIkGPPkCIvUd3iYtKTk",
     },
     status: "in_progress",
     max_players: 4,
@@ -125,22 +129,23 @@ const matchState = [
     robots: [
       {
         name: "X-T1",
-        avatar_url: "http://localhost:8000/assets/X-T1.png",
+        avatar_url: "https://cdn.dribbble.com/users/1084988/screenshots/4005734/fembot.png",
         username: "profran",
       },
       {
         name: "X-H2S",
-        avatar_url: "http://localhost:8000/assets/X-100.png",
-        username: "someoneelses",
+        avatar_url: "https://i.pinimg.com/originals/17/f6/8e/17f68e401b36b8b87346557940a40970.png",
+        username: "lueme",
       },
     ],
+    result: null,
   },
   {
     name: "Partida #1",
     id: "1",
     host: {
       username: "profran",
-      avatar_url: "http://localhost:8000/assets/profran.png",
+      avatar_url: "https://media-exp1.licdn.com/dms/image/C4D03AQGghvJ_n6eUww/profile-displayphoto-shrink_200_200/0/1533861405382?e=2147483647&v=beta&t=oeeWbZ4SqbWN0Oacr4rRxlHFfIkGPPkCIvUd3iYtKTk",
     },
     status: "finished",
     max_players: 4,
@@ -151,20 +156,21 @@ const matchState = [
     robots: [
       {
         name: "X-T1",
-        avatar_url: "http://localhost:8000/assets/X-T1.png",
+        avatar_url: "https://cdn.dribbble.com/users/1084988/screenshots/4005734/fembot.png",
         username: "profran",
       },
       {
         name: "X-H2S",
-        avatar_url: "http://localhost:8000/assets/X-100.png",
-        username: "someoneelses",
+        avatar_url: "https://i.pinimg.com/originals/17/f6/8e/17f68e401b36b8b87346557940a40970.png",
+        username: "lueme",
       },
       {
         name: "X-A1",
-        avatar_url: "http://localhost:8000/assets/X-100.png",
-        username: "someoneelse",
+        avatar_url: "https://i.pinimg.com/originals/17/f6/8e/17f68e401b36b8b87346557940a40970.png",
+        username: "anna",
       },
     ],
+    result: "X-T1",
   },
 ]
 
