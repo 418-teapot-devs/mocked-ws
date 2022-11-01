@@ -17,7 +17,7 @@ const matchState = [
     min_players: 2,
     games: 200,
     rounds: 10000,
-    is_private: false,
+    is_private: true,
     robots: [
       {
         name: "X-T1",
@@ -39,7 +39,7 @@ const matchState = [
     min_players: 2,
     games: 200,
     rounds: 10000,
-    is_private: false,
+    is_private: true,
     robots: [
       {
         name: "X-T1",
@@ -66,7 +66,7 @@ const matchState = [
     min_players: 2,
     games: 200,
     rounds: 10000,
-    is_private: false,
+    is_private: true,
     robots: [
       {
         name: "X-T1",
@@ -93,7 +93,7 @@ const matchState = [
     min_players: 2,
     games: 200,
     rounds: 10000,
-    is_private: false,
+    is_private: true,
     robots: [
       {
         name: "X-T1",
@@ -125,7 +125,7 @@ const matchState = [
     min_players: 2,
     games: 200,
     rounds: 10000,
-    is_private: false,
+    is_private: true,
     robots: [
       {
         name: "X-T1",
@@ -152,7 +152,7 @@ const matchState = [
     min_players: 2,
     games: 200,
     rounds: 10000,
-    is_private: false,
+    is_private: true,
     robots: [
       {
         name: "X-T1",
